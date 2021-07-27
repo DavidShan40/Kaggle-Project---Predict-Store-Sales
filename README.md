@@ -1,5 +1,6 @@
 # Kaggle-Project---Predict-Store-Sales
 https://www.kaggle.com/c/w21proj1
+This is my inclass project for statistical inference class, designed for undergraduate/master students (stat 457/857).
 
 Provide a brief introduction of the goal of this task. First get to know the data, include some graphical displays, and comment on patterns/characteristics of the data you find interesting or relevant to your later analysis.
 
